@@ -10,3 +10,4 @@ for x in range(b):
 
     k+=2
     print(s)
+print('Calculations done!')
